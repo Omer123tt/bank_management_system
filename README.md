@@ -53,6 +53,6 @@ bank_management_system/
 ##  Contribution
 Contributions are welcome! If you want to improve this project, fork the repository and create a pull request.
 
-Created by: Zenawi Zemene (https://github.com/zena-learngithub)  
-GitHub Repository: [Bank Management System](https://github.com/zena-learngithub/My_C_projects/bank_management_system)  
+Created by: Omer Kamal (https://github.com/Omer123tt)  
+GitHub Repository: [Bank Management System](https://github.com/Omer123tt/My_C_projects/bank_management_system)  
 
